@@ -1,0 +1,14 @@
+C:\Users\julia\Documents\projetos\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.exe
+C:\Users\julia\Documents\projetos\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.deps.json
+C:\Users\julia\Documents\projetos\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.runtimeconfig.json
+C:\Users\julia\Documents\projetos\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.dll
+C:\Users\julia\Documents\projetos\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.pdb
+C:\Users\julia\Documents\projetos\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\projetos\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\projetos\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.AssemblyInfo.cs
+C:\Users\julia\Documents\projetos\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\projetos\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.dll
+C:\Users\julia\Documents\projetos\SistemaHospedagem\obj\Debug\net8.0\refint\SistemaHospedagem.dll
+C:\Users\julia\Documents\projetos\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.pdb
+C:\Users\julia\Documents\projetos\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.genruntimeconfig.cache
+C:\Users\julia\Documents\projetos\SistemaHospedagem\obj\Debug\net8.0\ref\SistemaHospedagem.dll
